@@ -2,7 +2,7 @@
 - 👀 I’m interested in program, sport and music.
 - 🌱 I’m currently learning [cs course](https://teachyourselfcs.com/).
 
-Every 12 years is a round for me to reborn. At the age of 24, I had a job as a programmer, at the age of 36, I realized how to become a true programmer.
+Every 12 years is a round for me to be reborn. At the age of 24, I had a job as a programmer, at the age of 36, I realized how to become a true programmer.
 
 **BETTER LATE THAN NEVER**
 
