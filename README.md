@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [cs course](https://teachyourselfcs.com/).
 -  I am falling in love with Kubernetes.
 
-Every 12 years is a round for me to be reborn. At the age of 24, I had a job as a programmer, and at the age of 36, I realized how to become a true programmer. At 40 I want to be not too old to program.
+Every 12 years is a round for me to be reborn. At the age of 24, I had a job as a programmer, and at the age of 36, I realized how to become a true programmer. At 40 I want to be not too old to be a developer.
 
 **BETTER LATE THAN NEVER**
 
